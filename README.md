@@ -6,4 +6,5 @@ Este repositorio contiene las tareas realizados en 2024 del curso de Inteligenci
 ## Tecnologías Utilizadas
 - Google Colab
 - Python
+- Numpy
 - HMMLearn & BNLearn
