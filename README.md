@@ -10,5 +10,6 @@ Este repositorio contiene las tareas realizados en 2024 del curso de Inteligenci
 - Numpy
 - HMMLearn & BNLearn
 - Pandas
+- Google Gemini
 - SKLearn
 - Seaborn & Matplotlib
