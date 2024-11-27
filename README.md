@@ -15,3 +15,4 @@ Este repositorio contiene las tareas realizados en 2024 del curso de Inteligenci
 - Google Gemini
 - SKLearn
 - Seaborn & Matplotlib
+- KAN & MLP
